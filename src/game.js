@@ -560,6 +560,15 @@ export const modes = {
     chain: 0,
     minBoardSize: 15,
   },
+  "mega4set": {
+    name: "Mega4Set",
+    color: "amber",
+    description: "Find 4 cards that form a 4Set (mega version)",
+    setType: "4Set",
+    traits: 5,
+    chain: 0,
+    minBoardSize: 15,
+  },
   "4setjr": {
     name: "4Set Junior",
     color: "amber",
