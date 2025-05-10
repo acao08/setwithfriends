@@ -441,6 +441,13 @@ export const modes = {
     puzzle: false,
     minBoardSize: 15,
   },
+  "mega4set": {
+    setType: "4Set",
+    traits: 5,
+    chain: 0,
+    puzzle: false,
+    minBoardSize: 15,
+  },
   "4setjr": {
     setType: "4Set",
     traits: 3,
