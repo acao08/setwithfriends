@@ -29,7 +29,7 @@ function AboutPage() {
         </Typography>
         <Typography variant="body1" gutterBottom>
           This site would not be possible without many people's help: the{" "}
-          <Link href="https://github.com/eltoder/setwithfriends/graphs/contributors">
+          <Link href="https://github.com/acao08/setwithfriends/graphs/contributors">
             volunteer developers
           </Link>{" "}
           who contributed code to add features and fix bugs and many others who
@@ -38,7 +38,7 @@ function AboutPage() {
         <Typography variant="body1" gutterBottom>
           <strong>
             If you have suggestions, the best way to reach us is by{" "}
-            <Link href="https://github.com/eltoder/setwithfriends/issues">
+            <Link href="https://github.com/acao08/setwithfriends/issues">
               filing an issue
             </Link>
             .
