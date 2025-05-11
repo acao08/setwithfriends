@@ -147,7 +147,7 @@ function Navbar() {
               <Link
                 target="_blank"
                 rel="noopener"
-                href={`https://github.com/eltoder/setwithfriends/releases/tag/v${version}`}
+                href={`https://github.com/acao08/setwithfriends/releases/tag/v${version}`}
               >
                 Release Notes
               </Link>
