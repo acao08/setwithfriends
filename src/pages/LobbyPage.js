@@ -316,7 +316,7 @@ function LobbyPage() {
         <Link
           target="_blank"
           rel="noopener"
-          href="https://github.com/eltoder/setwithfriends"
+          href="https://github.com/acao08/setwithfriends"
         >
           GitHub
         </Link>{" "}
