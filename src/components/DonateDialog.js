@@ -58,7 +58,7 @@ function DonateDialog({ active }) {
           <Link
             target="_blank"
             rel="noopener"
-            href="https://github.com/eltoder/setwithfriends"
+            href="https://github.com/acao08/setwithfriends"
           >
             starring the project on GitHub
           </Link>
