@@ -22,7 +22,7 @@ function AboutPage() {
         </Typography>
         <Typography variant="body1" gutterBottom>
           The code powering this site is completely open source and available on{" "}
-          <Link href="https://github.com/eltoder/setwithfriends">GitHub</Link>.
+          <Link href="https://github.com/acao08/setwithfriends">GitHub</Link>.
           We are happy to provide mentorship for contributors from all
           backgrounds, whether you're a seasoned programmer or just want to
           learn more about web development.
