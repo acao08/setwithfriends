@@ -567,7 +567,7 @@ export const modes = {
     setType: "4Set",
     traits: 5,
     chain: 0,
-    minBoardSize: 15,
+    minBoardSize: 21,
   },
   "4setjr": {
     name: "4Set Junior",
